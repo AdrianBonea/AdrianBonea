@@ -1,14 +1,14 @@
-# Hi there! 👋 I'm {{ github_username }}
+# Hi there! 👋 I'm Adrian
 
 I'm a passionate Frontend Developer with a love for crafting intuitive and engaging user experiences. With a strong background in web development, I specialize in building responsive and dynamic websites using modern technologies.
 
 ## 🚀 Skills and Expertise
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Vue.js, Angular
+- **Frameworks/Libraries:** React, Vue.js
 - **Tools & Platforms:** Git, Webpack, npm, Docker
-- **UI/UX:** Responsive Design, Accessibility, Figma, Adobe XD
-- **Testing:** Jest, Cypress, Enzyme
+- **UI/UX:** Responsive Design, Accessibility, Figma
+- **Testing:** Jest
 
 ## 🌱 Currently Learning
 
