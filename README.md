@@ -4,8 +4,8 @@ I'm a passionate Frontend Developer with a love for crafting intuitive and engag
 
 ## 🚀 Skills and Expertise
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Vue.js
+- **Languages:** TypeScript, HTML, CSS
+- **Frameworks/Libraries:** NextJS, React, Vue.js, TailwindCSS
 - **Tools & Platforms:** Git, Webpack, npm, Docker
 - **UI/UX:** Responsive Design, Accessibility, Figma
 - **Testing:** Jest
