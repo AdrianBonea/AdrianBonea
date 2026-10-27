@@ -8,6 +8,4 @@ Full-stack Software Developer with 4 years of experience building web and mobile
 - **Mobile:** Expo / React Native
 - **CI/CD:** GitHub Actions
 
-Most of my work is in private repositories, so what you see here is just the tip.
-
 🌐 [boneaadrian.dev](https://boneaadrian.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/adrian-mirel-bonea/)
