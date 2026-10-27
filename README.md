@@ -1,22 +1,13 @@
-# Hi there! 👋 I'm Adrian
+### Hi, I'm Adrian 👋
 
-I'm a passionate Frontend Developer with a love for crafting intuitive and engaging user experiences. With a strong background in web development, I specialize in building responsive and dynamic websites using modern technologies.
+Full-stack Software Developer with 4 years of experience building web and mobile products. Rooted in the frontend, comfortable all the way down to the database.
 
-## 🚀 Skills and Expertise
+**Stack**
+- **Frontend:** React · Next.js · TypeScript
+- **Backend:** Node.js · PostgreSQL
+- **Mobile:** Expo / React Native
+- **CI/CD:** GitHub Actions
 
-- **Languages:** TypeScript, HTML, CSS
-- **Frameworks/Libraries:** NextJS, React, Vue.js, TailwindCSS
-- **Tools & Platforms:** Git, Webpack, npm, Docker
-- **UI/UX:** Responsive Design, Accessibility, Figma
-- **Testing:** Jest
+Most of my work is in private repositories, so what you see here is just the tip.
 
-## 🌱 Currently Learning
-
-- Advanced TypeScript patterns
-- Progressive Web Apps (PWAs)
-- Server-Side Rendering (SSR) with Next.js
-
-## 🔗 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/adrian-mirel-bonea)
-- [Personal Website/Portfolio](https://portfolio-adrianbonea.vercel.app/en)
+🌐 [boneaadrian.dev](https://boneaadrian.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/adrian-mirel-bonea/)
